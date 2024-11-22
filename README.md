@@ -1,3 +1,3 @@
 # projects
-basic projects \n
+basic projects.
 i love coding &amp; web develpoment.
